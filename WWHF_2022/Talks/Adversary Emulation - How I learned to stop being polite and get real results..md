@@ -11,13 +11,13 @@ by Adam and Katie @ Red Canary
 - Use weirdo old stuff and who knows?
 
 ## How to be less like a "red teamer" and more like a "REAL Adversary":
-			     ____________
-			     | Accuracy |
-			     ------------
+                 ____________
+                 | Accuracy |
+                 ------------
                /              \
               /                \
              /                  \
-	_________                    ________                
+    _________                    ________                
     | Speed | ------------------ | Cost |
     ---------                    --------
 	               Pick two!    
