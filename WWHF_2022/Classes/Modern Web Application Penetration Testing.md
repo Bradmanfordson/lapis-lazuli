@@ -1,6 +1,6 @@
 ### by Brian King @ Black Hills Information Security
 
-- "There's no such thing as advanced webapp penetration testing, only simple thiungs you haven't seen before."
+- "There's no such thing as advanced webapp penetration testing, only simple things you haven't seen before."
 - "You don't really get a shell on webapp penetration tests, also you don't really care about 'maintaining access'."
 - All the "methodologies" to pentests are crap, keep it simple!
 
