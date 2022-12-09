@@ -62,9 +62,11 @@ Situational Awareness!
 #### Console: What's going on.
 - JS doesnt have standard I/O or errors so this is as close as you can get
 - The following will show you ALL the links on the page with a blue border!!
-	for (link of document.links) {
-		link.style = "border: 5px solid blue"
-	}
+``` javascript
+for (link of document.links) {
+	link.style = "border: 5px solid blue"
+}
+```
 #### Inspector: How it's put together.
 - If you see "input type=password" just change it to "input type=text" and boom, `*`'s are gone!'
 #### DOM: Top-Down View.
