@@ -2,18 +2,15 @@
 
 Multiple perspectives on a topic helps us understand the topic more deeply. If there is a viewpoint that hinders our understanding, we have another perspective to acknowledge that can help us understand.
 
-
 ## 2. What is at the heart of all the theories about how Christianity works, ¶ 5? 
 
 Christ died and rose again, taking on death on our behalf and forgiving our sins. Sins He had no reason to take upon Himself, but He did anyway, for us. The truest form of love. 
-
 
 ## 3. What is the basic problem of human repentance, ¶ 7? 
 
 The more a person needs repentance the harder it is for them to repent. Inversely, the less a person needs repentance the easier it is to do.
 
 Addictions to pornography is harder to repent and quit when one is addicted. It's easy for me to say "i repent of drug use" because I've never done drugs. I need a hero (Skillet and  Bonnie Tyler) when it comes to addictions I struggle with.
-
 
 ## 4. How is Jesus Christ the solution to our human dilemma, ¶ 9?
 

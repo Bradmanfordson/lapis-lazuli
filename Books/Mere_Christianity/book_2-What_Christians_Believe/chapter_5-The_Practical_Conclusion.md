@@ -12,13 +12,11 @@ I'm struggling with this - I don't think I'm understanding what Lewis is getting
 
 I feel like the actions we take in reference to religions practices just help solidify that which has been taught to us. The physical observation of Him who we have a "secret, and intimate" relation with. Declaring "yup! This is my faith!" speaks volumes.
 
-
 ## 3. What do Christians mean when they say they are “in Christ”, ¶ 7, and why is that important?
 
 We are trying to be like Christ, the perfect human, the standard to live up to. Without a standard to view and live up to we can only imagine what we're supposed to do. I can write excellent code but without the knowledge of proofs and operating system theories I will never write truly great code. Knowing about parallelism and optimization algorithms, i can take what I previously thought was great code and make it truly EXCELLENT.
 
 Understanding and having a tangible example to live up to lets us know what our potential is and gives us something to always live up to and look up to.
-
 
 ## 4. After reading this chapter, what would you say to those who object to becoming a Christian because there are people in the world who have never heard of Jesus Christ?
 
