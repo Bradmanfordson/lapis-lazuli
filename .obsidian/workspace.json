@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Mere_Christianity/book_1-Right_and_Wrong_as_a_Clue_to_the_Meaning_of_the_Universe/chapter_5-We_Have_Cause_to_be_Uneasy.md",
+                "file": "Books/Mere_Christianity/Book_2: What_Christians_Believe/Chapter_1: Rival_Conceptions_of_God.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Mere_Christianity/book_1-Right_and_Wrong_as_a_Clue_to_the_Meaning_of_the_Universe/chapter_5-We_Have_Cause_to_be_Uneasy.md",
+                "file": "Books/Mere_Christianity/Book_2: What_Christians_Believe/Chapter_1: Rival_Conceptions_of_God.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Mere_Christianity/book_1-Right_and_Wrong_as_a_Clue_to_the_Meaning_of_the_Universe/chapter_5-We_Have_Cause_to_be_Uneasy.md",
+                "file": "Books/Mere_Christianity/Book_2: What_Christians_Believe/Chapter_1: Rival_Conceptions_of_God.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Mere_Christianity/book_1-Right_and_Wrong_as_a_Clue_to_the_Meaning_of_the_Universe/chapter_5-We_Have_Cause_to_be_Uneasy.md"
+                "file": "Books/Mere_Christianity/Book_2: What_Christians_Believe/Chapter_1: Rival_Conceptions_of_God.md"
               }
             }
           }
@@ -148,15 +148,28 @@
   },
   "active": "87c93def805dc149",
   "lastOpenFiles": [
+    "Books/Mere_Christianity/Book_3: Christian_Behavior/Chapter_1: The_Three_Parts_of_Morality.md",
+    "Books/Mere_Christianity/Book_3: Christian_Behavior/Chapter_2: The_Cardinal_Virtues.md",
+    "Books/Mere_Christianity/Book_3: Christian_Behavior/Chapter_3: Social_Morality.md",
+    "Books/Mere_Christianity/Book_3: Christian_Behavior/Chapter_4: Morality_and_Psychoanalysis.md",
+    "Books/Mere_Christianity/Book_3: Christian_Behavior/Chapter_5: Sexual_Morality.md",
+    "Books/Mere_Christianity/Book_3: Christian_Behavior/Chapter_6: Christian_Marriage.md",
+    "Books/Mere_Christianity/Book_3: Christian_Behavior/Chapter_7: Forgiveness.md",
+    "Books/Mere_Christianity/Book_3: Christian_Behavior/Chapter_8: The_Great_Sin.md",
+    "Books/Mere_Christianity/Book_3: Christian_Behavior/Chapter_9: Charity.md",
+    "Books/Mere_Christianity/Book_3: Christian_Behavior/Chapter_10: Hope.md",
+    "Books/Mere_Christianity/Book_3: Christian_Behavior/Chapter_11: Faith.md",
+    "Books/Mere_Christianity/Book_3: Christian_Behavior/Chapter_12: Faith_Continued.md",
+    "Books/Mere_Christianity/Book_2: What_Christians_Believe/Chapter_1: Rival_Conceptions_of_God.md",
+    "Books/Mere_Christianity/book_2-What_Christians_Believe/chapter_4-The_Perfect_Penitent.md",
+    "Books/Mere_Christianity/book_2-What_Christians_Believe/chapter_5-The_Practical_Conclusion.md",
+    "Books/Mere_Christianity/book_2-What_Christians_Believe/chapter_3-The_Shocking_Alternative.md",
+    "Books/Mere_Christianity/book_2-What_Christians_Believe/chapter_2-The_Invasion.md",
+    "Books/Mere_Christianity/book_2-What_Christians_Believe/chapter_1-Rival_Conceptions_of_God.md",
+    "Books/Mere_Christianity/book_1-Right_and_Wrong_as_a_Clue_to_the_Meaning_of_the_Universe/chapter_5-We_Have_Cause_to_be_Uneasy.md",
     "Books/Mere_Christianity/book_1-Right_and_Wrong_as_a_Clue_to_the_Meaning_of_the_Universe/chapter_4-What_Lies_Behind_the_Law.md",
     "Books/Mere_Christianity/book_1-Right_and_Wrong_as_a_Clue_to_the_Meaning_of_the_Universe/chapter_3-The_Reality_of_the_Law.md",
     "Books/Mere_Christianity/book_1-Right_and_Wrong_as_a_Clue_to_the_Meaning_of_the_Universe/chapter_2-Some_Objections.md",
-    "Books/Mere_Christianity/book_1-Right_and_Wrong_as_a_Clue_to_the_Meaning_of_the_Universe/chapter_1-The_Law_of_Human_Nature.md",
-    "Books/Mere_Christianity/book_1-Right_and_Wrong_as_a_Clue_to_the_Meaning_of_the_Universe/chapter_5-We_Have_Cause_to_be_Uneasy.md",
-    "Books/Mere_Christianity/book_2-What_Christians_Believe/chapter_5-The_Practical_Conclusion.md",
-    "Books/Mere_Christianity/book_2-What_Christians_Believe/chapter_4-The_Perfect_Penitent.md",
-    "Books/Mere_Christianity/book_2-What_Christians_Believe/chapter_3-The_Shocking_Alternative.md",
-    "Books/Mere_Christianity/book_2-What_Christians_Believe/chapter_2-The_Invasion.md",
-    "Books/Mere_Christianity/book_2-What_Christians_Believe/chapter_1-Rival_Conceptions_of_God.md"
+    "Books/Mere_Christianity/book_1-Right_and_Wrong_as_a_Clue_to_the_Meaning_of_the_Universe/chapter_1-The_Law_of_Human_Nature.md"
   ]
 }
