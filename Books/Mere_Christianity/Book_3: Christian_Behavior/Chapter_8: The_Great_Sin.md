@@ -2,8 +2,6 @@
 
 The pride he's referring to is the competitive pride, the "I'm better than you" pride. Without that pride we are free to see and celebrate others accomplishments, skills, and perspectives. With that pride, our interactions with people are not on the pure of heart level but instead we frame our happiness and worldview around being better than others. If others are better than us, we don't celebrate them, we disdain them and work on ways to beat them.
 
-
-
 ## 2. Not everything that goes by the name of pride qualifies as sin, ¶s 10 and 11. Why isn’t pride in being praised by others or taking pride in another person, sin? 
 
 Lewis touched on this, it's not "pride" it's having great feelings of affection for someone by seeing them accomplish great things. Being acknowledged for good work is something we are allowed to be happy at. If we are happy because our work is being recognized as better than someone else's work, then that's not being happy in ones own work, it's being happy that someone else "lost".

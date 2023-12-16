@@ -1,6 +1,10 @@
 ## 1. Mere Christianity is filled with poignant phrases. One of the most famous is found in this chapter, “Aim at heaven and you will get earth thrown in. Aim at earth and you will get neither.” ¶ 1. Explain what he means. 
 
+hmmm, this is difficult to express into words. Look at it from this perspective. If two people meet and decide to form a level of friendship, they WILL disappoint one another (most likely). Either one will choose the friendship is no longer worth their time, or they stay friends and the closer they get the more they have opportunities to do one wrong. There exists no human relationship that does not contain a level of hardship. That's the nature of the universe we exist in. Imperfection is more perfect than perfection.
 
+As such, we will hurt one another. If we aim at only pleasing one another and living for each other only - we WILL hurt each other. If we aim at Heaven and a Godly life, we will still hurt one another, but the recovery is not as detrimental as "you hurt me, so i'm going to hurt you" - that's what's "fair" after all. Turning the other cheek makes no sense in a non-spirit lead life. We will expound on hurting one another until survival of the fittest takes affect. 
+
+With a Godly lifestyle and worldview, we can cancel those spirals and achieve a better level of life. Thus aiming for heaven and getting a lil earth thrown in. Just aiming at earth leads to death and heartbreak/hardship.
 
 ## 2. In our culture, why is it difficult for us to have a Christian hope of heaven, ¶ 2? 
 

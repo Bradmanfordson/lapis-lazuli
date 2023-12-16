@@ -1,0 +1,16 @@
+## 1. It’s a big idea, but how does Lewis think that understanding that God is beyond time address common concerns about prayer, ¶s 4, 5, 6 and 7? 
+
+We can feel we pray selfishly, or pray in ways that "we don't see the outcome". Knowing God is not bound by time and can freely move about (or BE in every moment all at once) can bring a sense of comfort that He is in control and He has the power to spiderweb our lives together.
+
+## 2. How did the understanding that God is beyond time help Lewis understand the Incarnation, ¶ 10? 
+
+This is difficult to put into words... But understanding that God is not bound by time, so Christs life to us, appears as a 33ish year period of history, is not the way is it to God. God is in all periods of time simultaneously (at least that's a way of reasoning it given our limited understanding and rational given we exist in a reality that is based in time).
+
+I don't know how to word it for what the question is asking, but I will say, I have had this image in my mind since I was 17 or 18 years old. If we exist on a plane of time and imagine it as a horizontal line, we can progress forward on that line. It's only one direction. But when we die, we move upwards above the line... this is a new plane which is outside of the realm of time, but since we have to think of this with the constraints of "time" we can imagine that moving 1 unit above the "time line" is like another "time line". So.... here's where I'm getting at, people say "oh when i die my grandmother will be there to greet me" or "wow, i feel bad for Adam and Eve because they didn't have Jesus's salvation, therefore they're all in Hell because they were created at the wrong time." That last phrase really bothered me when I heard it at 17 or 18, it's not fair or just, and God is a fair and just God. I believe this is true, but also, you'd be there to greet her when she dies. The horizontal line is our timeline, going vertical is the time after we die (i know we're outside of time then) but if we imagine it like this, then Adam and Eve dies and enters heaven at the same "time" as me when i die, and every other human. 
+
+This image is flawed because it relies on a concept of time in order to try and comprehend the presence of "not time" but it's what I thought about :) 
+
+## 3. How might your life be different if you believed that you personally had God’s full and undivided attention? 
+
+I don't know. I already live in a world where I believe God wants the best for me and everyone else and who carefully spins a web such that desires of hearts, and what not, align such that we can be as effective as possible, we just have to let Him lead our lives.
+BUT, I focus so much on "this is what's best for me, period" and not listening to Him. I feel if I knew that God was 100% undivided attention on me and wanted me to have a fulfilling and beautiful life, I don't know. i want to say that i'd let Him take over more, but honestly I know that if you want something you have to put in the work for it. It's a delima in my mind, "give it to God" feels like laziness, but completely overtaking and not listening is ignorant. I fall in the latter so often because I fear the former.
